@@ -1,0 +1,13 @@
+url,label
+https://example.com,0
+https://www.wikipedia.org,0
+https://www.python.org,0
+https://www.microsoft.com,0
+https://www.github.com,0
+https://www.google.com,0
+http://192.0.2.1/login,1
+http://192.0.2.2/verify-account,1
+http://secure-login.example.invalid,1
+http://account-verify.example.invalid/login,1
+http://update-password.example.invalid,1
+http://banking-confirm.example.invalid,1
